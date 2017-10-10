@@ -2,6 +2,7 @@
   "name": "findingsimple/acf-field-video",
   "type": "wordpress-plugin",
   "homepage": "https://github.com/findingsimple/acf-field-video",
+  "license": "GPL-2.0",
   "description": "Adds a 'video' field type for the Advanced Custom Fields WordPress plugin.",
   "keywords": ["plugin","wordpress","acf-field-video"],
   "require": {
