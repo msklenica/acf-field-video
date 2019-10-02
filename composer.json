@@ -6,6 +6,6 @@
   "description": "Adds a 'video' field type for the Advanced Custom Fields WordPress plugin.",
   "keywords": ["plugin","wordpress","acf-field-video"],
   "require": {
-    "composer/installers": "~1.2.0"
+    "composer/installers": ">=1.2.0"
   }
 }
